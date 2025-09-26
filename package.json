@@ -19,7 +19,7 @@
   "homepage": "https://github.com/GESTIONMAX/my-vision-connect-backend#readme",
   "dependencies": {
     "@supabase/supabase-js": "^2.50.3",
-    "dotenv": "^17.0.1",
+    "dotenv": "^17.2.2",
     "express": "^5.1.0"
   },
   "devDependencies": {
